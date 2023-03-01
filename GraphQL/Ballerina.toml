@@ -1,0 +1,9 @@
+[package]
+org = "Joseph"
+name = "GraphQL"
+version = "1.0.0"
+export = ["GraphQL"]
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true

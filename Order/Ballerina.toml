@@ -1,0 +1,9 @@
+[package]
+org = "Joseph"
+name = "Order"
+version = "1.0.0"
+export = ["Order"]
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true
